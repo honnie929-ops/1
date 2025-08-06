@@ -13,11 +13,11 @@
 * [📘 Масслукинг](istochniki-trafika/massluking.md)
 * [📕 Instagram](istochniki-trafika/instagram.md)
 
-## 🛠 Подготовка устройства
+## 🛠️ 🛠 Подготовка устройства
 
 * [📞 IPhone](podgotovka-ustroistva/iphone.md)
 * [☎️ Android](podgotovka-ustroistva/android.md)
-* [🖱️ Memu](podgotovka-ustroistva/memu.md)
+* [🖱 Memu](podgotovka-ustroistva/memu.md)
 
 ## ✍️ Полезное
 
