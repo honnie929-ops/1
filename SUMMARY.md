@@ -1,10 +1,10 @@
 # Table of contents
 
-* [🦋 Elysium Project ❘](README.md)
+* [🦋 Radius ❘](README.md)
 
 ## ⚙️ Виды направлений
 
-* [🤖 Elysium ❘ Fake Casino](vidy-napravlenii/elysium-fake-casino.md)
+* [🤖 Radius❘ Fake Casino](vidy-napravlenii/elysium-fake-casino.md)
 
 ## 📢 Источники трафика
 
